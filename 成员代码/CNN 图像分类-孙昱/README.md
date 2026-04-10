@@ -66,7 +66,7 @@ index=1, pred=2, label=2
 
 ## 6. 运行示例
 
-![image](img\sample_run.png)
+![image](img/sample_run.png)
 
 ## 7. 流程总结
 
